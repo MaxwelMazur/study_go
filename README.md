@@ -1,1 +1,3 @@
 # minha-documentao-golang
+
+acredito que isso pode te ajudar com bons exmplos...
